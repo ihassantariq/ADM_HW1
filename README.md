@@ -1,4 +1,4 @@
-# Home Work 2 completed by group 16!
+# Algorithmic Methods of Data Mining (Sc.M. in Data Science) Homework - 2 completed by group 16!
 # Names
 1. Giulia Scikibu Maravalli
 2. Hafiz Muhammad Hassan
