@@ -17,7 +17,7 @@ Here you find the list of task you need to perform before running the analysis.
 You can the see all questions answers in below files.
 
 # All questions are inside below file
-1. [AMD Homework 2]('https://ihassantariq.github.io/ADM_HW1/AMD_Homework_2.ipynb') 
+1. [AMD Homework 2](https://ihassantariq.github.io/ADM_HW1/AMD_Homework_2.ipynb) 
 
 # All the html pages For maps
 
